@@ -2,7 +2,6 @@
 
 [Reaction](http://reactioncommerce.com) is a headless commerce platform built using Node.js, React, and GraphQL. It plays nicely with npm, Docker and Kubernetes.
 
-![Reaction Admin](https://user-images.githubusercontent.com/20409254/61161477-bb033c80-a4b8-11e9-9c5e-4f4f6a68b8d0.png)
 
 # Getting started
 
